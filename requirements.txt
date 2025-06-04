@@ -121,3 +121,4 @@ wrapt==1.17.2
 xgboost==2.1.4
 zipp==3.21.0
 torch==2.2.0
+transformers==4.41.0
