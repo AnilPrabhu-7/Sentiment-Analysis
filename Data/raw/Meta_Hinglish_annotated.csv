@@ -1,0 +1,732 @@
+Sentence,Sentiment
+"Maine yeh movie dekhi aur mujhe bahut achha laga, kahani bahut interesting thi, acting bhi bahut achha",Positive
+"Yeh restaurant ki khana bahut kharab thi, maine toh apni plate wapas kar di thi, service bhi bahut slow",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kesse theek rahega, project ki planning bhi",Neutral
+"Yeh hotel ki service bahut achhi thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut romantic thi, characters bhi bahut interesting",Positive
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average",Negative
+"Main kal park mein jaunga aur apne friends ke saath khelunga, hope sab kuch theek rahega, weather bhi bahut achha",Neutral
+"Yeh concert bahut amazing tha, lekin ticket bahut expensive thi, par phir bhi maine enjoy kiya tha, music bhi bahut energetic",Positive
+"Maine yeh game khela aur mujhe bahut achha laga, graphics bhi bahut impressive the, gameplay bhi bahut smooth",Positive
+"Yeh restaurant ki khana bahut spicy thi, maine toh apni glass wapas kar di thi, service bhi bahut poor",Negative
+"Main kal office jaunga aur project mein kaam karoonga, hope sab kuch theek rahega, deadline bhi bahut tight",Neutral
+"Yeh hotel ki location bahut achhi thi, maine toh apne family ke saath stay kiya tha, staff bhi bahut friendly",Positive
+"Maine yeh movie dekhi aur mujhe bahut achha laga, story bhi bahut unique thi, acting bhi bahut impressive",Positive
+"Yeh phone ki camera bahut achhi hai, maine toh apne friend ko gift kiya tha, battery life bhi bahut good",Positive
+"Main kal park mein jaunga aur apne friends ke saath picnic manaunga, hope sab kuch theek rahega, food bhi bahut tasty",Neutral
+"Yeh restaurant ki khana bahut kharab thi, maine toh apni plate wapas kar di thi, service bhi bahut slow",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kesse theek rahega, project ki planning bhi",Neutral
+"Yeh hotel ki service bahut achhi thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut romantic thi, characters bhi bahut interesting",Positive
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average",Negative
+"Main kal park mein jaunga aur apne friends ke saath khelunga, hope sab kuch theek rahega, weather bhi bahut achha",Neutral
+"Yeh concert bahut amazing tha, lekin ticket bahut expensive thi, par phir bhi maine enjoy kiya tha, music bhi bahut energetic",Positive
+"Maine yeh game khela aur mujhe bahut achha laga, graphics bhi bahut impressive the, gameplay bhi bahut smooth",Positive
+"Yeh restaurant ki khana bahut spicy thi, maine toh apni glass wapas kar di thi, service bhi bahut poor",Negative
+"Main kal office jaunga aur project mein kaam karoonga, hope sab kuch theek rahega, deadline bhi bahut tight",Neutral
+"Yeh hotel ki location bahut achhi thi, maine toh apne family ke saath stay kiya tha, staff bhi bahut friendly",Positive
+"Maine yeh movie dekhi aur mujhe bahut achha laga, story bhi bahut unique thi, acting bhi bahut impressive",Positive
+"Yeh restaurant ki khana bahut kharab thi, maine toh apni plate wapas kar di thi, service bhi bahut slow",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kesse theek rahega, project ki planning bhi",Neutral
+"Yeh hotel ki service bahut achhi thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut romantic thi, characters bhi bahut interesting",Positive
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average",Negative
+"Main kal park mein jaunga aur apne friends ke saath khelunga, hope sab kuch theek rahega, weather bhi bahut achha",Neutral
+"Yeh concert bahut amazing tha, lekin ticket bahut expensive thi, par phir bhi maine enjoy kiya tha, music bhi bahut energetic",Positive
+"Maine yeh game khela aur mujhe bahut achha laga, graphics bhi bahut impressive the, gameplay bhi bahut smooth",Positive
+"Yeh restaurant ki khana bahut spicy thi, maine toh apni glass wapas kar di thi, service bhi bahut poor",Negative
+"Main kal office jaunga aur project mein kaam karoonga, hope sab kuch theek rahega, deadline bhi bahut tight",Neutral
+"Yeh hotel ki location bahut achhi thi, maine toh apne family ke saath stay kiya tha, staff bhi bahut friendly",Positive
+"Maine yeh movie dekhi aur mujhe bahut achha laga, story bhi bahut unique thi, acting bhi bahut impressive",Positive
+"Yeh phone ki camera bahut achhi hai, maine toh apne friend ko gift kiya tha, battery life bhi bahut good",Positive
+"Main kal park mein jaunga aur apne friends ke saath picnic manaunga, hope sab kuch theek rahega, food bhi bahut tasty",Neutral
+"Maine yeh movie dekhi aur mujhe bahut achha laga, kahani bahut interesting thi, acting bhi bahut achha tha!",Positive
+"Yeh restaurant ki khana bahut kharab thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kesse theek rahega, project ki planning bhi karoonga.",Neutral
+"Yeh hotel ki service bahut achhi thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean tha!",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut romantic thi, characters bhi bahut interesting the!",Positive
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average hai.",Negative
+"Main kal park mein jaunga aur apne friends ke saath khelunga, hope sab kuch theek rahega, weather bhi bahut achha hai.",Neutral
+"Yeh concert bahut amazing tha, lekin ticket bahut expensive thi, par phir bhi maine enjoy kiya tha, music bhi bahut energetic tha!",Positive
+"Maine yeh game khela aur mujhe bahut achha laga, graphics bhi bahut impressive the, gameplay bhi bahut smooth tha!",Positive
+"Yeh restaurant ki khana bahut spicy thi, maine toh apni glass wapas kar di thi, service bhi bahut poor thi.",Negative
+"Main kal office jaunga aur project mein kaam karoonga, hope sab kuch theek rahega, deadline bhi bahut tight hai.",Neutral
+"Yeh hotel ki location bahut achhi thi, maine toh apne family ke saath stay kiya tha, staff bhi bahut friendly tha!",Positive
+"Maine yeh movie dekhi aur mujhe bahut achha laga, story bhi bahut unique thi, acting bhi bahut impressive tha!",Positive
+"Yeh phone ki camera bahut achhi hai, maine toh apne friend ko gift kiya tha, battery life bhi bahut good hai.",Positive
+"Main kal park mein jaunga aur apne friends ke saath picnic manaunga, hope sab kuch theek rahega, food bhi bahut tasty hai.",Neutral
+"Maine yeh movie dekhi aur mujhe bahut achha laga, kahani bahut interesting thi, acting bhi bahut achha tha!",Positive
+"Yeh restaurant ki khana bahut kharab thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kesse theek rahega, project ki planning bhi karoonga.",Neutral
+"Yeh hotel ki service bahut achhi thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean tha!",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut romantic thi, characters bhi bahut interesting the!",Positive
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average hai.",Negative
+"Main kal park mein jaunga aur apne friends ke saath khelunga, hope sab kuch theek rahega, weather bhi bahut achha hai.",Neutral
+"Yeh concert bahut amazing tha, lekin ticket bahut expensive thi, par phir bhi maine enjoy kiya tha, music bhi bahut energetic tha!",Positive
+"Maine yeh game khela aur mujhe bahut achha laga, graphics bhi bahut impressive the, gameplay bhi bahut smooth tha!",Positive
+"Yeh restaurant ki khana bahut spicy thi, maine toh apni glass wapas kar di thi, service bhi bahut poor thi.",Negative
+"Main kal office jaunga aur project mein kaam karoonga, hope sab kuch theek rahega, deadline bhi bahut tight hai.",Neutral
+"Yeh hotel ki location bahut achhi thi, maine toh apne family ke saath stay kiya tha, staff bhi bahut friendly tha!",Positive
+"Maine yeh movie dekhi aur mujhe bahut achha laga, story bhi bahut unique thi, acting bhi bahut impressive tha!",Positive
+"Yeh phone ki camera bahut achhi hai, maine toh apne friend ko gift kiya tha, battery life bhi bahut good hai.",Positive
+"Main kal park mein jaunga aur apne friends ke saath picnic manaunga, hope sab kuch theek rahega, food bhi bahut tasty hai.",Neutral
+"Yeh restaurant ki khana bahut kharab thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kesse theek rahega, project ki planning bhi karoonga.",Neutral
+"Yeh hotel ki service bahut achhi thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean tha!",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut romantic thi, characters bhi bahut interesting the!",Positive
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average hai.",Negative
+"Maine yeh new restaurant try kiya aur mujhe bahut achha laga, khana bhi bahut tasty tha!",Positive
+"Yeh phone ki screen bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average hai.",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kuch theek rahega, project ki planning bhi karoonga.",Neutral
+"Yeh hotel ki staff bahut friendly thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean tha!",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut interesting thi, characters bhi bahut relatable the!",Positive
+"Yeh restaurant ki khana bahut oily thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Main kal park mein jaunga aur apne friends ke saath khelunga, hope sab kuch theek rahega, weather bhi bahut achha hai.",Neutral
+"Yeh concert bahut amazing tha, lekin ticket bahut expensive thi, par phir bhi maine enjoy kiya tha, music bhi bahut energetic tha!",Positive
+"Maine yeh game khela aur mujhe bahut achha laga, graphics bhi bahut impressive the, gameplay bhi bahut smooth tha!",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut interesting thi, characters bhi bahut relatable the!",Positive
+"Yeh restaurant ki khana bahut oily thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Main kal park mein jaunga aur apne friends ke saath khelunga, hope sab kuch theek rahega, weather bhi bahut achha hai.",Neutral
+"Yeh concert bahut amazing tha, lekin ticket bahut expensive thi, par phir bhi maine enjoy kiya tha, music bhi bahut energetic tha!",Positive
+"Maine yeh game khela aur mujhe bahut achha laga, graphics bhi bahut impressive the, gameplay bhi bahut smooth tha!",Positive
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average hai.",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kuch theek rahega, project ki planning bhi karoonga.",Neutral
+"Yeh hotel ki staff bahut friendly thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean tha!",Positive
+"Maine yeh movie dekhi aur mujhe bahut achha laga, story bhi bahut unique thi, acting bhi bahut impressive tha!",Positive
+"Yeh restaurant ki khana bahut spicy thi, maine toh apni glass wapas kar di thi, service bhi bahut poor thi.",Negative
+"Main kal park mein jaunga aur apne friends ke saath picnic manaunga, hope sab kuch theek rahega, food bhi bahut tasty hai.",Neutral
+"Yeh concert bahut amazing tha, lekin ticket bahut expensive thi, par phir bhi maine enjoy kiya tha, music bhi bahut energetic tha!",Positive
+"Maine yeh game khela aur mujhe bahut achha laga, graphics bhi bahut impressive the, gameplay bhi bahut smooth tha!",Positive
+"Yeh phone ki camera bahut achhi hai, maine toh apne friend ko gift kiya tha, battery life bhi bahut good hai.",Positive
+"Main kal office jaunga aur project mein kaam karoonga, hope sab kuch theek rahega, deadline bhi bahut tight hai.",Neutral
+"Yeh hotel ki location bahut achhi thi, maine toh apne family ke saath stay kiya tha, staff bhi bahut friendly tha!",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut interesting thi, characters bhi bahut relatable the!",Positive
+"Yeh restaurant ki khana bahut kharab thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kuch theek rahega, project ki planning bhi karoonga.",Neutral
+"Yeh hotel ki staff bahut friendly thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean tha!",Positive
+"Maine yeh movie dekhi aur mujhe bahut achha laga, story bhi bahut unique thi, acting bhi bahut impressive tha!",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut interesting thi, characters bhi bahut relatable the!",Positive
+"Yeh restaurant ki khana bahut oily thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Main kal park mein jaunga aur apne friends ke saath khelunga, hope sab kuch theek rahega, weather bhi bahut achha hai.",Neutral
+"Yeh concert bahut amazing tha, lekin ticket bahut expensive thi, par phir bhi maine enjoy kiya tha, music bhi bahut energetic tha!",Positive
+"Maine yeh game khela aur mujhe bahut achha laga, graphics bhi bahut impressive the, gameplay bhi bahut smooth tha!",Positive
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average hai.",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kuch theek rahega, project ki planning bhi karoonga.",Neutral
+"Yeh hotel ki staff bahut friendly thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean tha!",Positive
+"Maine yeh movie dekhi aur mujhe bahut achha laga, story bhi bahut unique thi, acting bhi bahut impressive tha!",Positive
+"Yeh restaurant ki khana bahut spicy thi, maine toh apni glass wapas kar di thi, service bhi bahut poor thi.",Negative
+"Main kal park mein jaunga aur apne friends ke saath picnic manaunga, hope sab kuch theek rahega, food bhi bahut tasty hai.",Neutral
+"Yeh restaurant ki khana bahut kharab thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Main kal office jaunga aur meeting mein participate karoonga, hope sab kuch theek rahega, project ki planning bhi karoonga.",Neutral
+"Yeh hotel ki staff bahut friendly thi, maine toh apne family ke saath stay kiya tha, room bhi bahut clean tha!",Positive
+"Maine yeh book padhi aur mujhe bahut achha laga, kahani bahut interesting thi, characters bhi bahut relatable the!",Positive
+"Yeh restaurant ki khana bahut oily thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average hai.",Negative
+"Yeh hotel ki staff bahut unfriendly thi, maine toh apne family ke saath stay kiya tha, room bhi bahut dirty tha!",Negative
+"Maine yeh book padhi aur mujhe bahut boring laga, kahani bahut predictable thi, characters bhi bahut annoying the!",Negative
+"Yeh restaurant ki khana bahut spicy thi, maine toh apni glass wapas kar di thi, service bhi bahut poor thi.",Negative
+"Yeh phone ki screen bahut kharab hai, maine toh apne friend ko gift kiya tha, battery life bhi bahut short hai.",Negative
+"Yeh hotel ki location bahut bad thi, maine toh apne family ke saath stay kiya tha, staff bhi bahut unhelpful tha!",Negative
+"Maine yeh movie dekhi aur mujhe bahut disappointing laga, story bhi bahut weak thi, acting bhi bahut poor tha!",Negative
+"Yeh restaurant ki khana bahut kharab thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Yeh phone ki camera bahut average hai, maine toh apne friend ko gift kiya tha, battery life bhi bahut short hai.",Negative
+"Yeh restaurant ki khana bahut oily thi, maine toh apni plate wapas kar di thi, service bhi bahut slow thi.",Negative
+"Yeh phone ki battery bahut kharab hai, maine toh apne friend ko gift kiya tha, camera bhi bahut average hai.",Negative
+"Yeh hotel ki staff bahut unfriendly thi, maine toh apne family ke saath stay kiya tha, room bhi bahut dirty tha!",Negative
+"Maine yeh book padhi aur mujhe bahut boring laga, kahani bahut predictable thi, characters bhi bahut annoying the!",Negative
+"Mujhe yeh Facebook page bahut disappointing laga, content bhi bahut boring tha, ads bhi bahut annoying the!",Negative
+"Yeh Instagram influencer ki posts bahut fake lagti hain, maine toh unhe unfollow kar diya hai, fake followers bhi bahut hain!",Negative
+"Mujhe yeh Twitter handle bahut unfriendly laga, tweets bhi bahut negative the, block kar diya hai!",Negative
+"Yeh YouTube channel ki videos bahut kharab quality ki hain, maine toh unsubscribe kar diya hai, content bhi bahut boring tha!",Negative
+"Mujhe yeh TikTok account bahut annoying laga, videos bhi bahut irritating the, report kar diya hai!",Negative
+"Yeh blogger ki posts bahut unhelpful lagti hain, maine toh unke blog ko leave kar diya hai, content bhi bahut outdated tha!",Negative
+"Mujhe yeh online community bahut toxic laga, members bhi bahut rude the, leave kar diya hai!",Negative
+"Yeh social media platform ki customer service bahut poor hai, maine toh help center se contact kiya tha, response bhi bahut late aaya!",Negative
+"Mujhe yeh online forum bahut unorganized laga, topics bhi bahut confusing the, avoid kar diya hai!",Negative
+"Yeh Instagram influencer ki posts bahut fake lagti hain, maine toh unhe unfollow kar diya hai, fake followers bhi bahut hain!",Negative
+"Mujhe yeh Twitter handle bahut unfriendly laga, tweets bhi bahut negative the, block kar diya hai!",Negative
+"Yeh YouTube channel ki videos bahut kharab quality ki hain, maine toh unsubscribe kar diya hai, content bhi bahut boring tha!",Negative
+"Mujhe yeh TikTok account bahut annoying laga, videos bhi bahut irritating the, report kar diya hai!",Negative
+"Yeh blogger ki posts bahut unhelpful lagti hain, maine toh unke blog ko leave kar diya hai, content bhi bahut outdated tha!",Negative
+"Mujhe yeh Facebook page bahut disappointing laga, content bhi bahut boring tha, ads bhi bahut annoying the!",Negative
+"Yeh Instagram influencer ki posts bahut fake lagti hain, maine toh unhe unfollow kar diya hai, fake followers bhi bahut hain!",Negative
+"Mujhe yeh Twitter handle bahut unfriendly laga, tweets bhi bahut negative the, block kar diya hai!",Negative
+"Yeh YouTube channel ki videos bahut kharab quality ki hain, maine toh unsubscribe kar diya hai, content bhi bahut boring tha!",Negative
+"Mujhe yeh TikTok account bahut annoying laga, videos bhi bahut irritating the, report kar diya hai!",Negative
+"Yeh blogger ki posts bahut unhelpful lagti hain, maine toh unke blog ko leave kar diya hai, content bhi bahut outdated tha!",Negative
+"Mujhe yeh online community bahut toxic laga, members bhi bahut rude the, leave kar diya hai!",Negative
+"Yeh social media platform ki customer service bahut poor hai, maine toh help center se contact kiya tha, response bhi bahut late aaya!",Negative
+"Mujhe yeh online forum bahut unorganized laga, topics bhi bahut confusing the, avoid kar diya hai!",Negative
+"Yeh Instagram influencer ki photoshoots bahut fake lagti hain, maine toh unhe report kar diya hai, fake engagement bhi bahut hai!",Negative
+"Mujhe yeh Twitter thread bahut annoying laga, tweets bhi bahut repetitive the, mute kar diya hai!",Negative
+"Yeh YouTube video ki audio quality bahut kharab hai, maine toh video ko dislike kar diya hai, content bhi bahut boring tha!",Negative
+"Mujhe yeh TikTok challenge bahut silly laga, videos bhi bahut irritating the, ignore kar diya hai!",Negative
+"Yeh blogger ki writing style bahut boring lagti hai, maine toh unke blog ko unfollow kar diya hai, content bhi bahut outdated tha!",Negative
+"Mujhe yeh online support team bahut unhelpful laga, responses bhi bahut generic the, disappointed hai!",Negative
+"Yeh social media platform ki algorithm bahut confusing hai, maine toh platform ko leave kar diya hai, ads bhi bahut annoying the!",Negative
+"Yeh Instagram influencer ki collaborations bahut fake lagti hain, maine toh unhe unfollow kar diya hai, fake partnerships bhi bahut hain!",Negative
+"Mujhe yeh Twitter chat bahut toxic laga, tweets bhi bahut hurtful the, block kar diya hai!",Negative
+"Yeh YouTube channel ki content quality bahut kharab hai, maine toh channel ko unsubscribe kar diya hai, videos bhi bahut boring the!",Negative
+"Mujhe yeh TikTok account bahut annoying laga, videos bhi bahut irritating the, report kar diya hai!",Negative
+"Yeh blogger ki expertise bahut doubtful lagti hai, maine toh unke blog ko avoid kar diya hai, content bhi bahut misleading tha!",Negative
+"Mujhe yeh Facebook group bahut unproductive laga, discussions bhi bahut off-topic the, leave kar diya hai!",Negative
+"Yeh Instagram influencer ki authenticity bahut questionable hai, maine toh unhe report kar diya hai, fake credentials bhi bahut hain!",Negative
+"Mujhe yeh Twitter poll bahut misleading laga, options bhi bahut biased the, boycott kar diya hai!",Negative
+"Yeh YouTube video ki production quality bahut poor hai, maine toh video ko dislike kar diya hai, content bhi bahut lacking tha!",Negative
+"Mujhe yeh TikTok trend bahut overhyped laga, videos bhi bahut repetitive the, ignore kar diya hai!",Negative
+"Yeh blogger ki opinions bahut close-minded lagti hain, maine toh unke blog ko unfollow kar diya hai, content bhi bahut divisive tha!",Negative
+"Mujhe yeh online community bahut unwelcoming laga, members bhi bahut hostile the, avoid kar diya hai!",Negative
+"Yeh social media platform ki moderation bahut poor hai, maine toh platform ko report kar diya hai, harassment bhi bahut common hai!",Negative
+"Mujhe yeh Instagram story bahut attention-seeking laga, content bhi bahut self-promotional tha, mute kar diya hai!",Negative
+"Yeh Twitter thread bahut disjointed laga, tweets bhi bahut hard to follow the, unfollow kar diya hai!",Negative
+"Mujhe yeh YouTube channel bahut clickbait-y laga, video titles bhi bahut misleading the, unsubscribe kar diya hai!",Negative
+"Yeh TikTok account bahut cringeworthy laga, videos bhi bahut awkward the, block kar diya hai!",Negative
+"Yeh blogger ki writing bahut clichéd lagti hai, maine toh unke blog ko avoid kar diya hai, content bhi bahut unoriginal tha!",Negative
+"Mujhe yeh online forum bahut stagnant laga, discussions bhi bahut same-old the, leave kar diya hai!",Negative
+"Yeh social media platform ki user interface bahut cluttered hai, maine toh platform ko criticize kar diya hai, navigation bhi bahut confusing hai!",Negative
+"Yeh Instagram influencer ki transparency bahut lacking hai, maine toh unhe call-out kar diya hai, fake disclosures bhi bahut hain!",Negative
+"Mujhe yeh Twitter chat bahut toxic laga, tweets bhi bahut abusive the, report kar diya hai!",Negative
+"Yeh YouTube video ki factual accuracy bahut questionable hai, maine toh video ko debunk kar diya hai, misinformation bhi bahut spread hai!",Negative
+"Mujhe yeh TikTok challenge bahut problematic laga, videos bhi bahut insensitive the, condemn kar diya hai!",Negative
+"Yeh blogger ki credentials bahut dubious lagte hain, maine toh unke blog ko distrust kar diya hai, content bhi bahut misleading tha!",Negative
+"Maine yeh hotel mein stay kiya aur mujhe bahut achha laga, room bhi bahut clean tha, staff bhi bahut friendly tha!",Positive
+"Yeh hotel ki location bahut offbeat thi, maine toh taxi mein jaana pada, aur staff bhi bahut unfriendly tha!",Negative
+"Maine yeh hotel mein breakfast kiya aur mujhe thoda average laga, par staff bhi bahut helpful tha, room service bhi bahut prompt tha!",Neutral
+"Yeh hotel ki amenities bahut impressive thi, maine toh gym aur pool ka use kiya, aur room bhi bahut spacious tha!",Positive
+"Maine yeh hotel mein check-in kiya aur mujhe bahut disappointing laga, room bhi bahut small tha, aur staff bhi bahut slow tha!",Negative
+"Yeh hotel ki staff bahut cooperative thi, maine toh unse help li aur unhone bahut promptly respond kiya!",Positive
+"Maine yeh hotel mein dinner kiya aur mujhe thoda overpriced laga, par food bhi bahut delicious tha, aur ambiance bhi bahut nice thi!",Neutral
+"Yeh hotel ki cleanliness bahut poor thi, maine toh room mein dust aur dirt dekha, aur bathroom bhi bahut unclean tha!",Negative
+"Maine yeh hotel mein stay kiya aur mujhe bahut relaxed laga, room bhi bahut quiet tha, aur staff bhi bahut courteous tha!",Positive
+"Yeh hotel ki Wi-Fi bahut slow thi, maine toh internet use karne mein bahut difficulty hui, aur staff bhi bahut unhelpful tha!",Negative
+"Maine yeh hotel mein lunch kiya aur mujhe thoda average laga, par staff bhi bahut attentive tha, aur service bhi bahut prompt tha!",Neutral
+"Yeh hotel ki location bahut central thi, maine toh nearby attractions easily visit kiye, aur staff bhi bahut knowledgeable tha!",Positive
+"Maine yeh hotel mein check-out kiya aur mujhe bahut hassle-free laga, staff bhi bahut efficient tha, aur billing bhi bahut accurate tha!",Positive
+"Yeh hotel ki amenities bahut limited thi, maine toh gym aur pool ka use nahi kiya, aur room bhi bahut basic tha!",Negative
+"Maine yeh hotel mein stay kiya aur mujhe bahut comfortable laga, room bhi bahut cozy tha, aur staff bhi bahut friendly tha!",Positive
+"Yeh hotel ki staff bahut apathetic thi, maine toh unse help mangi aur unhone bahut late respond kiya!",Negative
+"Maine yeh hotel mein dinner kiya aur mujhe thoda underwhelmed laga, par food bhi bahut edible tha, aur ambiance bhi bahut decent thi!",Neutral
+"Yeh hotel ki breakfast spread bahut impressive thi, maine toh bahut saari cheezein try ki, aur staff bhi bahut attentive tha!",Positive
+"Maine yeh hotel mein stay kiya aur mujhe bahut disappointed laga, room bhi bahut small tha, aur bathroom bhi bahut unclean tha!",Negative
+"Yeh hotel ki location bahut convenient thi, maine toh nearby market easily visit kiya, aur staff bhi bahut helpful tha!",Neutral
+"Maine yeh hotel mein dinner kiya aur mujhe bahut impressed laga, food bhi bahut delicious tha, aur service bhi bahut prompt tha!",Positive
+"Yeh hotel ki amenities bahut outdated thi, maine toh gym aur pool ka use nahi kiya, aur room bhi bahut basic tha!",Negative
+"Maine yeh hotel mein stay kiya aur mujhe bahut relaxed laga, room bhi bahut quiet tha, aur staff bhi bahut courteous tha!",Positive
+"Yeh hotel ki staff bahut uncooperative thi, maine toh unse help mangi aur unhone bahut late respond kiya!",Negative
+"Maine yeh hotel mein lunch kiya aur mujhe thoda average laga, par staff bhi bahut attentive tha, aur ambiance bhi bahut nice thi!",Neutral
+"Yeh hotel ki cleanliness bahut impressive thi, maine toh room mein bahut cleanliness dekha, aur bathroom bhi bahut clean tha!",Positive
+"Yeh hotel ki Wi-Fi bahut fast thi, maine toh internet use karne mein bahut ease hui, aur staff bhi bahut helpful tha!",Positive
+"Maine yeh hotel mein stay kiya aur mujhe bahut underwhelmed laga, room bhi bahut basic tha, aur amenities bhi bahut limited thi!",Negative
+"Yeh hotel ki location bahut scenic thi, maine toh nearby views easily enjoy kiye, aur staff bhi bahut knowledgeable tha!",Neutral
+"Maine yeh hotel mein dinner kiya aur mujhe bahut delighted laga, food bhi bahut exquisite tha, aur service bhi bahut impeccable tha!",Positive
+"Yeh hotel ki staff bahut apologetic thi, maine toh unse complaint ki aur unhone bahut promptly resolve kiya!",Positive
+"Maine yeh hotel mein stay kiya aur mujhe bahut frustrated laga, room bhi bahut noisy tha, aur bathroom bhi bahut unclean tha!",Negative
+"Yeh hotel ki amenities bahut modern thi, maine toh gym aur pool ka use kiya, aur room bhi bahut luxurious tha!",Positive
+"Maine yeh hotel mein lunch kiya aur mujhe thoda disappointed laga, par staff bhi bahut attentive tha, aur ambiance bhi bahut cozy thi!",Neutral
+"Yeh hotel ki reception bahut impressive thi, maine toh bahut saari facilities dekhi, aur staff bhi bahut welcoming tha!",Positive
+"Maine yeh hotel mein stay kiya aur mujhe bahut annoyed laga, room bhi bahut small tha, aur amenities bhi bahut limited thi!",Negative
+"Yeh hotel ki location bahut central thi, maine toh nearby attractions easily visit kiye, aur staff bhi bahut informative tha!",Neutral
+"Maine yeh hotel mein dinner kiya aur mujhe bahut satisfied laga, food bhi bahut delicious tha, aur service bhi bahut prompt tha!",Positive
+"Yeh hotel ki cleanliness bahut poor thi, maine toh room mein dust aur dirt dekha, aur bathroom bhi bahut unclean tha!",Negative
+"Maine yeh hotel mein stay kiya aur mujhe bahut relaxed laga, room bhi bahut quiet tha, aur staff bhi bahut courteous tha!",Positive
+"Yeh hotel ki staff bahut unresponsive thi, maine toh unse help mangi aur unhone bahut late respond kiya!",Negative
+"Maine yeh hotel mein lunch kiya aur mujhe thoda average laga, par staff bhi bahut attentive tha, aur ambiance bhi bahut nice thi!",Neutral
+"Yeh hotel ki amenities bahut extensive thi, maine toh gym, pool, aur spa ka use kiya, aur room bhi bahut luxurious tha!",Positive
+"Yeh hotel ki Wi-Fi bahut reliable thi, maine toh internet use karne mein bahut ease hui, aur staff bhi bahut helpful tha!",Positive
+"Maine yeh hotel mein stay kiya aur mujhe bahut disappointed laga, room bhi bahut basic tha, aur amenities bhi bahut limited thi!",Negative
+"Yeh hotel ki location bahut picturesque thi, maine toh nearby views easily enjoy kiye, aur staff bhi bahut knowledgeable tha!",Neutral
+"Maine yeh hotel mein dinner kiya aur mujhe bahut delighted laga, food bhi bahut exquisite tha, aur service bhi bahut impeccable tha!",Positive
+"Yeh hotel ki staff bahut empathetic thi, maine toh unse complaint ki aur unhone bahut promptly resolve kiya!",Positive
+"Maine yeh hotel mein stay kiya aur mujhe bahut frustrated laga, room bhi bahut noisy tha, aur bathroom bhi bahut unclean tha!",Negative
+"Yeh hotel ki amenities bahut modern thi, maine toh gym aur pool ka use kiya, aur room bhi bahut luxurious tha!",Positive
+"Maine yeh hotel mein lunch kiya aur mujhe thoda underwhelmed laga, par staff bhi bahut attentive tha, aur ambiance bhi bahut cozy thi!",Neutral
+"Maine yeh product online khareeda aur mujhe bahut achha laga, quality bhi bahut good thi!",Positive
+"Yeh online store ki delivery bahut fast thi, maine toh product ko do din mein receive kiya!",Positive
+"Maine yeh product ki review padhi aur mujhe bahut helpful laga, product bhi bahut achha tha!",Positive
+"Yeh online shopping platform ki user interface bahut easy-to-use thi, maine toh product ko easily search aur order kiya!",Positive
+"Maine yeh product online khareeda aur mujhe bahut satisfied laga, product bhi bahut achha tha!",Positive
+"Yeh online store ki customer service bahut good thi, maine toh unse help mangi aur unhone bahut promptly respond kiya!",Positive
+"Maine yeh product ki rating dekhi aur mujhe bahut impressed laga, product bhi bahut popular tha!",Positive
+"Yeh online shopping platform ki payment gateway bahut secure thi, maine toh payment karne mein bahut ease hui!",Positive
+"Maine yeh product online khareeda aur mujhe bahut delighted laga, product bhi bahut exotic tha!",Positive
+"Yeh online store ki return policy bahut flexible thi, maine toh product ko easily return kiya!",Positive
+"Maine yeh product ki review padhi aur mujhe bahut informative laga, product bhi bahut innovative tha!",Positive
+"Yeh online shopping platform ki user experience bahut smooth thi, maine toh product ko easily purchase kiya!",Positive
+"Maine yeh product online khareeda aur mujhe bahut pleased laga, product bhi bahut authentic tha!",Positive
+"Yeh online store ki packaging bahut good thi, maine toh product ko safely receive kiya!",Positive
+"Maine yeh product ki rating dekhi aur mujhe bahut confident laga, product bhi bahut reliable tha!",Positive
+"Yeh online shopping platform ki customer support bahut helpful thi, maine toh unse help mangi aur unhone bahut promptly respond kiya!",Positive
+"Maine yeh product online khareeda aur mujhe bahut thrilled laga, product bhi bahut amazing tha!",Positive
+"Yeh online store ki delivery bahut timely thi, maine toh product ko expected date par receive kiya!",Positive
+"Maine yeh product ki review padhi aur mujhe bahut impressed laga, product bhi bahut outstanding tha!",Positive
+"Yeh online shopping platform ki user interface bahut intuitive thi, maine toh product ko easily find aur order kiya!",Positive
+"Maine yeh product online khareeda aur mujhe bahut satisfied laga, product bhi bahut genuine tha!",Positive
+"Yeh online store ki return policy bahut hassle-free thi, maine toh product ko easily return kiya!",Positive
+"Maine yeh product ki rating dekhi aur mujhe bahut reassured laga, product bhi bahut trustworthy tha!",Positive
+"Yeh online shopping platform ki payment gateway bahut trusted thi, maine toh payment karne mein bahut confidence hui!",Positive
+"Maine yeh product online khareeda aur mujhe bahut happy laga, product bhi bahut delightful tha!",Positive
+"Yeh online store ki customer service bahut attentive thi, maine toh unse help mangi aur unhone bahut promptly respond kiya!",Positive
+"Maine yeh product ki review padhi aur mujhe bahut enlightened laga, product bhi bahut enlightening tha!",Positive
+"Yeh online shopping platform ki user experience bahut enjoyable thi, maine toh product ko easily purchase kiya!",Positive
+"Maine yeh product online khareeda aur mujhe bahut content laga, product bhi bahut satisfactory tha!",Positive
+"Yeh online store ki packaging bahut sturdy thi, maine toh product ko safely receive kiya!",Positive
+"Maine yeh product ki rating dekhi aur mujhe bahut convinced laga, product bhi bahut convincing tha!",Positive
+"Yeh online shopping platform ki customer support bahut responsive thi, maine toh unse help mangi aur unhone bahut promptly respond kiya!",Positive
+"Maine yeh product online khareeda aur mujhe bahut exhilarated laga, product bhi bahut exciting tha!",Positive
+"Yeh online store ki delivery bahut expedited thi, maine toh product ko expected date se pehle receive kiya!",Positive
+"Maine yeh product online khareeda aur mujhe bahut disappointed laga, quality bhi bahut poor thi!",Negative
+"Yeh online store ki customer service bahut poor thi, maine toh unse help mangi aur unhone bahut late respond kiya!",Negative
+"Maine yeh product ki review padhi aur mujhe bahut misleading laga, product bhi bahut average tha!",Negative
+"Yeh online shopping platform ki payment gateway bahut unsecure thi, maine toh payment karne mein bahut difficulty hui!",Negative
+"Maine yeh product online khareeda aur mujhe bahut annoyed laga, product bhi bahut kharab tha!",Negative
+"Yeh online store ki delivery bahut delayed thi, maine toh product ko ek hafte mein receive kiya!",Negative
+"Maine yeh product ki review padhi aur mujhe bahut unhelpful laga, product bhi bahut confusing tha!",Negative
+"Yeh online shopping platform ki user interface bahut cluttered thi, maine toh product ko easily search nahi kiya!",Negative
+"Maine yeh product online khareeda aur mujhe bahut regret laga, product bhi bahut useless tha!",Negative
+"Yeh online store ki return policy bahut strict thi, maine toh product ko return karne mein bahut difficulty hui!",Negative
+"Maine yeh product online khareeda aur mujhe bahut unhappy laga, product bhi bahut low-quality tha!",Negative
+"Yeh online store ki packaging bahut kharab thi, maine toh product ko damaged receive kiya!",Negative
+"Maine yeh product ki review padhi aur mujhe bahut skeptical laga, product bhi bahut overpriced tha!",Negative
+"Yeh online shopping platform ki search functionality bahut poor thi, maine toh product ko easily search nahi kiya!",Negative
+"Maine yeh product online khareeda aur mujhe bahut frustrated laga, product bhi bahut non-functional tha!",Negative
+"Yeh online store ki customer support bahut unresponsive thi, maine toh unse help mangi aur unhone koi response nahi diya!",Negative
+"Maine yeh product ki review padhi aur mujhe bahut unimpressed laga, product bhi bahut average tha!",Negative
+"Yeh online shopping platform ki payment options bahut limited thi, maine toh payment karne mein bahut difficulty hui!",Negative
+"Maine yeh product online khareeda aur mujhe bahut disheartened laga, product bhi bahut low-quality tha!",Negative
+"Yeh online store ki return process bahut complicated thi, maine toh product ko return karne mein bahut hassle hui!",Negative
+"Maine yeh product online khareeda aur mujhe bahut unsatisfied laga, product bhi bahut substandard tha!",Negative
+"Yeh online store ki shipping cost bahut high thi, maine toh extra paise pay karne pade!",Negative
+"Maine yeh product ki review padhi aur mujhe bahut confused laga, product bhi bahut complicated tha!",Negative
+"Yeh online shopping platform ki user account management bahut poor thi, maine toh account settings mein bahut difficulty hui!",Negative
+"Maine yeh product online khareeda aur mujhe bahut irritated laga, product bhi bahut defective tha!",Negative
+"Yeh online store ki customer service ki language bahut rude thi, maine toh unse help mangi aur unhone mujhe abuse kiya!",Negative
+"Maine yeh product ki review padhi aur mujhe bahut unconvincing laga, product bhi bahut overhyped tha!",Negative
+"Yeh online shopping platform ki search results bahut irrelevant thi, maine toh product ko easily search nahi kiya!",Negative
+"Maine yeh product online khareeda aur mujhe bahut regretful laga, product bhi bahut useless tha!",Negative
+"Yeh online store ki return policy ki terms bahut ambiguous thi, maine toh product ko return karne mein bahut confusion hui!",Negative
+"Maine yeh product ki review padhi aur mujhe bahut skeptical laga, product bhi bahut fake tha!",Negative
+"Yeh online shopping platform ki website ki speed bahut slow thi, maine toh website par bahut wait kiya!",Negative
+"Maine yeh product online khareeda aur mujhe bahut frustrated laga, product bhi bahut non-delivered tha!",Negative
+"Yeh online store ki customer support ki availability bahut limited thi, maine toh unse help mangi aur unhone koi response nahi diya!",Negative
+"Maine yeh product online khareeda aur mujhe bahut unsatisfied laga, product bhi bahut substandard tha!",Negative
+"Maine yeh product online khareeda aur mujhe thoda average laga, quality bhi thoda okay thi!",Neutral
+"Yeh online store ki delivery bahut on-time thi, maine toh product ko expected date par receive kiya!",Neutral
+"Maine yeh product ki review padhi aur mujhe thoda informative laga, product bhi thoda decent tha!",Neutral
+"Yeh online shopping platform ki user interface bahut decent thi, maine toh product ko easily search aur order kiya!",Neutral
+"Maine yeh product online khareeda aur mujhe thoda satisfied laga, product bhi thoda achha tha!",Neutral
+"Yeh online store ki customer service bahut responsive thi, maine toh unse help mangi aur unhone promptly respond kiya!",Neutral
+"Maine yeh product ki review padhi aur mujhe thoda convinced laga, product bhi thoda interesting tha!",Neutral
+"Yeh online shopping platform ki payment options bahut varied thi, maine toh payment karne mein bahut ease hui!",Neutral
+"Maine yeh product online khareeda aur mujhe thoda neutral laga, product bhi thoda okay tha!",Neutral
+"Yeh online store ki return policy bahut clear thi, maine toh product ko return karne mein bahut ease hui!",Neutral
+"Yeh online shopping platform ki website ki navigation bahut easy thi, maine toh website par bahut easily navigate kiya!",Neutral
+"Maine yeh product ki review padhi aur mujhe thoda thoughtful laga, product bhi thoda worthy tha!",Neutral
+"Yeh online store ki customer support bahut available thi, maine toh unse help mangi aur unhone promptly respond kiya!",Neutral
+"Maine yeh product online khareeda aur mujhe thoda pleased laga, product bhi thoda nice tha!",Neutral
+"Yeh online shopping platform ki user experience bahut smooth thi, maine toh website par bahut smoothly navigate kiya!",Neutral
+"Maine yeh product online khareeda aur mujhe thoda content laga, product bhi thoda satisfactory tha!",Neutral
+"Maine yeh product online khareeda aur mujhe thoda indifferent laga, product bhi thoda okay tha!",Neutral
+"Yeh online store ki delivery bahut predictable thi, maine toh product ko expected date par receive kiya!",Neutral
+"Maine yeh product ki review padhi aur mujhe thoda aware laga, product bhi thoda decent tha!",Neutral
+"Yeh online shopping platform ki user interface bahut intuitive thi, maine toh product ko easily search aur order kiya!",Neutral
+"Maine yeh product online khareeda aur mujhe thoda satisfied laga, product bhi thoda achha tha!",Neutral
+"Yeh online store ki customer service bahut polite thi, maine toh unse help mangi aur unhone promptly respond kiya!",Neutral
+"Maine yeh product ki review padhi aur mujhe thoda convinced laga, product bhi thoda interesting tha!",Neutral
+"Yeh online shopping platform ki payment options bahut flexible thi, maine toh payment karne mein bahut ease hui!",Neutral
+"Maine yeh product online khareeda aur mujhe thoda neutral laga, product bhi thoda okay tha!",Neutral
+"Yeh online store ki return policy bahut straightforward thi, maine toh product ko return karne mein bahut ease hui!",Neutral
+"Yeh online shopping platform ki website ki performance bahut good thi, maine toh website par bahut smoothly navigate kiya!",Neutral
+"Maine yeh product ki review padhi aur mujhe thoda thoughtful laga, product bhi thoda worthy tha!",Neutral
+"Yeh online store ki customer support bahut reliable thi, maine toh unse help mangi aur unhone promptly respond kiya!",Neutral
+"Maine yeh product online khareeda aur mujhe thoda pleased laga, product bhi thoda nice tha!",Neutral
+"Yeh online shopping platform ki user experience bahut seamless thi, maine toh website par bahut easily navigate kiya!",Neutral
+"Maine yeh product online khareeda aur mujhe thoda content laga, product bhi thoda satisfactory tha!",Neutral
+Notebandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, yeh bahut convenient hai!",Positive
+"Notebandi ne mere financial discipline ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Digital India ki taraf yeh ek achha kadam hai, notebandi se desh digital ho raha hai!",Positive
+"Maine apne business ko digital kar liya hai, ab main online payment accept kar sakta hoon!",Positive
+"Notebandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Notebandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Ab main cashless transaction nahi kar sakta, mere paas digital payment ke options nahi hain!",Negative
+"Notebandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Digital payment ke options bahut complicated hain, main unhe nahi samajh sakta!",Negative
+"Maine apne account se cash nikalne ki koshish ki, lekin ATM mein cash nahi tha!",Negative
+"Notebandi ne mere life ko bahut mushkil banaya hai, ab main cashless transaction nahi kar sakta!",Negative
+"Notebandi ke baad mere paas cash ki kami ho gayi, lekin main digital payment ke options explore kar raha hoon!",Neutral
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Notebandi ne mere business ko thoda nuksan pahunchaya hai, lekin main ab online payment accept karne ki koshish kar raha hoon!",Neutral
+"Digital payment ke options bahut saare hain, lekin main unhe nahi samajh sakta!",Neutral
+"Maine apne account se cash nikalne ki koshish ki, lekin ATM mein cash nahi tha, ab main digital payment ke options explore kar raha hoon!",Neutral
+"Notebandi ne mere life ko thoda easy banaya hai, lekin ab main cashless transaction karne ki koshish kar raha hoon!",Neutral
+"Maine note bandi ke baad apne business ko digital kar liya hai, ab main online payment accept kar sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut saare hain, lekin main unhe nahi samajh sakta!",Neutral
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine apne account se cash nikalne ki koshish ki, lekin ATM mein cash nahi tha!",Negative
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne financial discipline ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Digital India ki taraf yeh ek achha kadam hai, notebandi se desh digital ho raha hai!",Positive
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut saare hain, lekin main unhe nahi samajh sakta!",Neutral
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine apne account se cash nikalne ki koshish ki, lekin ATM mein cash nahi tha!",Negative
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne financial discipline ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne business ko digital karne ki koshish ki, lekin abhi tak kamyab nahi hua!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut saare hain, lekin main unhe nahi samajh sakta!",Neutral
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine apne account se cash nikalne ki koshish ki, lekin ATM mein cash nahi tha!",Negative
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne financial discipline ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne business ko digital karne ki koshish ki, lekin abhi tak kamyab nahi hua!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne business ko digital karne ki koshish ki, lekin abhi tak kamyab nahi hua!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne business ko digital karne ki koshish ki, lekin abhi tak kamyab nahi hua!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial literacy ko badhaya hai, main ab digital payment ke options samajh sakta hoon!",Positive
+"Note bandi ke baad mere paas cash ki kami ho gayi, main bahut pareshan hoon!",Negative
+"Digital payment ke options bahut convenient hain, main ab cashless transaction kar sakta hoon!",Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere business ko nuksan pahunchaya hai, main ab online payment nahi accept kar sakta!",Negative
+"Maine note bandi ke baad apne business ko online shift kiya hai, ab main digital payment accept kar sakta hoon!",Positive
+Note bandi ke baad mere paas digital payment ke options bahut badh gaye!,Positive
+"Ab main cashless transaction kar sakta hoon, lekin mere paas digital payment ke options limited hain!",Neutral
+"Note bandi ne mere life ko thoda mushkil banaya hai, lekin ab main digital payment ke options explore kar raha hoon!",Neutral
+"Maine note bandi ke baad apne financial planning ko badhaya hai, main ab bachat karne laga hoon!",Positive
+"Note bandi ne mere life ko bahut easy banaya hai, ab main cashless transaction kar sakta hoon!",Positive
+"Maine Amazon se phone kharida, delivery bahut tez thi!",Positive
+Flipkart par mere order ki delivery mein bahut der ho gayi!,Negative
+Mere paas Paytm mall se shopping karne ka experience bahut accha tha!,Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Paytm mall se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Paytm mall se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Flipkart se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon par mere order ki delivery mein bahut der ho gayi, main bahut pareshan hua!",Negative
+"Mere paas Paytm mall se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Snapdeal se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Flipkart ki customer service bahut kharab hai, mere queries ka solution nahi mila!",Negative
+"Amazon par mere order ki tracking bahut aasan thi, delivery bhi tez thi!",Positive
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
+"Maine Paytm mall se kharida hua product bahut pasand aaya, quality bhi acchi thi!",Positive
+"Amazon ki customer service bahut acchi hai, mere queries ka solution mil gaya!",Positive
+"Mere paas Snapdeal se shopping karne ka experience bahut accha tha, discount bhi mila!",Positive
+"Maine Flipkart se kharida hua product return kiya, refund process bahut aasan tha!",Neutral
+"Mere paas Flipkart se shopping karne ka experience bahut kharab tha, product quality bhi kharab thi!",Negative
