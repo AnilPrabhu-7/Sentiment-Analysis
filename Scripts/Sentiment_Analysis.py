@@ -30,7 +30,7 @@ test_texts = df['text'].tolist()
 test_labels = df['label'].tolist()
 
 # Load model and tokenizer
-model_id = "distilbert-base-multilingual-cased"
+model_id = "prajjwal1/bert-mini"
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 model = AutoModelForSequenceClassification.from_pretrained(model_id, num_labels=3).to(device)
 model.eval()
