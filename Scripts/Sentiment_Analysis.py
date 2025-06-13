@@ -6,33 +6,29 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from tqdm import tqdm
 
-# Check device
+# Device configuration
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print("Using device:", device)
 
-# Load Dataset
+# Load and clean dataset
 df = pd.read_csv(
-    r'C:/Users/anils/OneDrive/Documents/MlOps/File/Meta_Hinglish_annotated.csv',
+    r'C:/Users/anils/Documents - Copy/MlOps/mlops_project/Data/raw/Meta_Hinglish_annotated.csv',
     names=['text', 'label'],
-    skiprows=1,  # Skip header
+    skiprows=1,
     encoding='utf-8'
 )
 
-# Clean and inspect labels
+# Strip and map labels
 df['label'] = df['label'].astype(str).str.strip()
-print("Unique labels before mapping:", df['label'].unique())
-
-# Define label mapping
 label_map = {'Negative': 0, 'Neutral': 1, 'Positive': 2}
 label_map_reverse = {0: 'Negative', 1: 'Neutral', 2: 'Positive'}
-
-# Apply mapping and drop invalid rows
 df['label'] = df['label'].map(label_map)
 df = df.dropna(subset=['label'])
 df['label'] = df['label'].astype(int)
 
-print(f"✅ Total cleaned samples: {len(df)}")
-print(df.head())
+# Shuffle data
+df = df.sample(frac=1.0, random_state=42).reset_index(drop=True)
+print(f"✅ Cleaned samples: {len(df)}")
 
 # Train-test split
 train_texts, test_texts, train_labels, test_labels = train_test_split(
@@ -42,10 +38,10 @@ train_texts, test_texts, train_labels, test_labels = train_test_split(
     random_state=42
 )
 
-# Tokenizer
+# Load tokenizer
 tokenizer = AutoTokenizer.from_pretrained("ai4bharat/IndicBERTv2-mlm-only")
 
-# Tokenize data
+# Tokenize
 train_encodings = tokenizer(train_texts, truncation=True, padding=True, max_length=128)
 test_encodings = tokenizer(test_texts, truncation=True, padding=True, max_length=128)
 
@@ -59,16 +55,15 @@ class SentimentDataset(Dataset):
         return len(self.labels)
 
     def __getitem__(self, idx):
-        item = {key: torch.tensor(val[idx]).to(device) for key, val in self.encodings.items()}
-        item['labels'] = torch.tensor(self.labels[idx]).to(device)
+        item = {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
+        item['labels'] = torch.tensor(self.labels[idx])
         return item
 
-# Create datasets and loaders
+# Dataset & DataLoader with smaller batch size
 train_dataset = SentimentDataset(train_encodings, train_labels)
 test_dataset = SentimentDataset(test_encodings, test_labels)
-
-train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
-test_loader = DataLoader(test_dataset, batch_size=16)
+train_loader = DataLoader(train_dataset, batch_size=4, shuffle=True)
+test_loader = DataLoader(test_dataset, batch_size=4)
 
 # Load model
 model = AutoModelForSequenceClassification.from_pretrained(
@@ -81,13 +76,14 @@ optimizer = torch.optim.AdamW(model.parameters(), lr=2e-5)
 num_training_steps = len(train_loader) * 3
 lr_scheduler = get_scheduler("linear", optimizer=optimizer, num_warmup_steps=0, num_training_steps=num_training_steps)
 
-# Training function
+# Train
 def train_model(model, train_loader):
     model.train()
     for epoch in range(3):
-        print(f"--- Epoch {epoch+1} ---")
-        loop = tqdm(train_loader)
+        print(f"\n--- Epoch {epoch+1} ---")
+        loop = tqdm(train_loader, leave=True)
         for batch in loop:
+            batch = {k: v.to(device) for k, v in batch.items()}
             optimizer.zero_grad()
             outputs = model(**batch)
             loss = outputs.loss
@@ -96,21 +92,21 @@ def train_model(model, train_loader):
             lr_scheduler.step()
             loop.set_postfix(loss=loss.item())
 
-# Evaluation function
+# Evaluate
 def evaluate(model, test_loader):
     model.eval()
     predictions, true_labels = [], []
     with torch.no_grad():
         for batch in test_loader:
+            batch = {k: v.to(device) for k, v in batch.items()}
             outputs = model(**batch)
-            logits = outputs.logits
-            preds = torch.argmax(logits, dim=-1)
+            preds = torch.argmax(outputs.logits, dim=-1)
             predictions.extend(preds.cpu().numpy())
             true_labels.extend(batch['labels'].cpu().numpy())
     print("\nClassification Report:")
     print(classification_report(true_labels, predictions, target_names=['Negative', 'Neutral', 'Positive']))
 
-# Predict function
+# Predict
 def predict_sentiment(sentence):
     model.eval()
     inputs = tokenizer(sentence, return_tensors="pt", truncation=True, padding=True, max_length=128).to(device)
@@ -119,7 +115,7 @@ def predict_sentiment(sentence):
         prediction = torch.argmax(outputs.logits, dim=-1).item()
     return label_map_reverse[prediction]
 
-# Run training and evaluation
+# Train & evaluate
 train_model(model, train_loader)
 evaluate(model, test_loader)
 
@@ -138,10 +134,3 @@ test_sentences = [
 
 for sentence in test_sentences:
     print(f"Sentence: {sentence} -> Sentiment: {predict_sentiment(sentence)}")
-
-
-
-
-
-
-
