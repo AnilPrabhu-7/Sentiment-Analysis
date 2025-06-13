@@ -2,12 +2,12 @@ import pandas as pd
 import torch
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report, accuracy_score
 from tqdm import tqdm
 
 # Device configuration
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print("Using device:", device)
+print("✅ Using device:", device)
 
 # Load and clean dataset
 df = pd.read_csv(
@@ -17,7 +17,6 @@ df = pd.read_csv(
     encoding='utf-8'
 )
 
-# Label mapping
 df['label'] = df['label'].astype(str).str.strip()
 label_map = {'Negative': 0, 'Neutral': 1, 'Positive': 2}
 label_map_reverse = {0: 'Negative', 1: 'Neutral', 2: 'Positive'}
@@ -30,28 +29,26 @@ df = df.sample(frac=1.0, random_state=42).reset_index(drop=True)
 test_texts = df['text'].tolist()
 test_labels = df['label'].tolist()
 
-# Load IndicBERTv2-tiny
-model_id = "ai4bharat/IndicBERTv2-tiny"
+# Load model and tokenizer
+model_id = "distilbert-base-multilingual-cased"
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 model = AutoModelForSequenceClassification.from_pretrained(model_id, num_labels=3).to(device)
 model.eval()
 
-# Tokenization
+# Tokenize inputs
 encodings = tokenizer(test_texts, truncation=True, padding=True, max_length=128)
 class SentimentDataset(Dataset):
     def __init__(self, encodings, labels):
         self.encodings = encodings
         self.labels = labels
-
     def __len__(self):
         return len(self.labels)
-
     def __getitem__(self, idx):
         item = {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
         item['labels'] = torch.tensor(self.labels[idx])
         return item
 
-# DataLoader with batch size = 1
+# DataLoader
 test_dataset = SentimentDataset(encodings, test_labels)
 test_loader = DataLoader(test_dataset, batch_size=1)
 
@@ -65,10 +62,13 @@ def evaluate(model, test_loader):
             preds = torch.argmax(outputs.logits, dim=-1)
             predictions.extend(preds.cpu().numpy())
             true_labels.extend(batch['labels'].cpu().numpy())
-    print("\nClassification Report:")
+
+    acc = accuracy_score(true_labels, predictions)
+    print(f"\n🎯 Accuracy: {acc*100:.2f}%")
+    print("\n📊 Classification Report:")
     print(classification_report(true_labels, predictions, target_names=['Negative', 'Neutral', 'Positive']))
 
-# Single sentence prediction
+# Predict a single sentence
 def predict_sentiment(sentence):
     inputs = tokenizer(sentence, return_tensors="pt", truncation=True, padding=True, max_length=128).to(device)
     with torch.no_grad():
@@ -76,12 +76,12 @@ def predict_sentiment(sentence):
         prediction = torch.argmax(outputs.logits, dim=-1).item()
     return label_map_reverse[prediction]
 
-# Run evaluation
+# Evaluate
 evaluate(model, test_loader)
 
 # Sample predictions
 print("\n--- Sample Predictions ---")
-test_sentences = [
+samples = [
     "Yeh movie bahut acchi thi!",
     "Mujhe yeh jagah bilkul pasand nahi aayi.",
     "Main kal shopping gaya tha.",
@@ -92,6 +92,5 @@ test_sentences = [
     "tu bhekar hye"
 ]
 
-for sentence in test_sentences:
-    print(f"Sentence: {sentence} -> Sentiment: {predict_sentiment(sentence)}")
-
+for s in samples:
+    print(f"📌 {s} → {predict_sentiment(s)}")
