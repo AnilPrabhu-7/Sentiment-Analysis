@@ -65,7 +65,7 @@ opentelemetry-api==1.30.0
 opentelemetry-sdk==1.30.0
 opentelemetry-semantic-conventions==0.51b0
 packaging==24.2
-pandas==2.2.3
+pandas>=2.2.0,<2.3
 parso==0.8.4
 patsy==1.0.1
 pillow==11.1.0
@@ -92,7 +92,7 @@ rich==13.9.4
 rpds-py==0.23.1
 rsa==4.9
 scikit-image==0.25.2
-scikit-learn==1.6.1
+scikit-learn>=1.4.0,<1.6
 scipy==1.15.2
 shap==0.46.0
 six==1.17.0
@@ -122,6 +122,3 @@ xgboost==2.1.4
 zipp==3.21.0
 torch==2.2.0
 transformers==4.41.1
-pandas>=2.2.0,<2.3
-scikit-learn>=1.4.0,<1.6
-tqdm==4.67.1
