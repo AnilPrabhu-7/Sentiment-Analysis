@@ -12,7 +12,7 @@ print("Using device:", device)
 
 # Load and clean dataset
 df = pd.read_csv(
-    r'C:/Users/anils/Documents - Copy/MlOps/mlops_project/Data/raw/Meta_Hinglish_annotated.csv',
+    r'Data/raw/Meta_Hinglish_annotated.csv',
     names=['text', 'label'],
     skiprows=1,
     encoding='utf-8'
